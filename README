@@ -1,0 +1,15 @@
+The zip file contains the MATLAB files to perform the simulations for
+the paper
+
+J. Miller, H. Ryu, X. Wang, V. Booth and S.A. Campbell (2022)
+Patterns of synchronization in 2D networks of inhibitory neurons.
+
+Place all files into the same folder. The files 
+Fig4A_2D_n4_1NN_perturb.m
+Fig6A_2D_n6_1NN_perturb.m
+Fig8AB_2D_n6_1NN2NN_perturb.m
+are MATLAB scripts that generate Figures 4A, 6A and 8A/B respectively.
+
+You can run these by typing e.g.
+ Fig4A_2D_n4_1NN_perturb
+at the MATLAB prompt.
